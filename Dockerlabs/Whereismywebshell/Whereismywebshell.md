@@ -27,7 +27,7 @@ Detecta abierto el puerto 80(servicio http, apache)
 
 Se puede realizar ping para comprobar conectividad
 
-ping -c1 127.0.2
+ping -c1 172.17.0.2
 
 ![alt text](image-3.png)
 
